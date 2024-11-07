@@ -21,8 +21,8 @@ A full-stack CRUD application built with **Node.js** and **MySQL**. This project
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   https://github.com/pesala-x/CRUD-application-rest-api-withJS.git
+   cd CRUD-application-rest-api-withJS
    ```
 
 2. **Install dependencies:**
